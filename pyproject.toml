@@ -1,0 +1,9 @@
+[project]
+name = "baseball_ariadne"
+description = ""
+version = "0.1.0"
+authors = []
+dependencies = [
+    "ariadne",
+    "gunicorn",
+]
